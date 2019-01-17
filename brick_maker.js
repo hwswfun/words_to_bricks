@@ -1,7 +1,7 @@
 
 
 var single_brick_width = 8.0; // 8.0
-var brick_base_height = 3.2;  // 3.2
+var brick_base_height = 0.2;   // 3.2
 var pin_height = 1.9;					// 1.9
 var pin_diameter = 4.8;				// 4.8
 var margin = 0.4;             // spacing between bricks
